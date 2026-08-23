@@ -1,1 +1,1 @@
-# fist-project
+# first-project
